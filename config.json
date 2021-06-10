@@ -1,0 +1,8 @@
+{
+    "IPSettings": {
+        "ListenIPv4": "0.0.0.0",
+        "ListenIPv6": "::0",
+        "ListenPort": 31000
+    },
+    "AppSettings": {}
+}
